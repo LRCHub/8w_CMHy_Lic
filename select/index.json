@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "虹を待つ人",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-12T07:27:45.824230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Niji wo Matsu Hito [虹を待つ人]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Niji_wo_Matsu_Hito_[虹を待つ人]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虹を待つ人",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_虹を待つ人_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹を待つ人",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_虹を待つ人_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
